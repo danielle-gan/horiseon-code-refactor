@@ -15,5 +15,5 @@ Accessibility is important not only for the ease of use for people with disabili
 ![header and hero](/assets/images/SS-header-and-hero)
 ![content and footer](assets/images/SS-content-and-footer)
 
-## Link to live [webpage] (http://127.0.0.1:5500/Develop/index.html)
+Link to live [webpage](http://127.0.0.1:5500/Develop/index.html)
 
